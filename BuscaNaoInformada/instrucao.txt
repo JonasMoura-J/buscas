@@ -1,0 +1,17 @@
+Grupo 3 - Jonas de Moura Teixeira - Mateus Satoh
+
+Para executar o programa, basta executar o arquivo busca_nao_informada.py.
+
+As dependências utilizadas nas buscas são nativas do python, sem necessidade de instalação.
+
+Não fizemos interface gráfica, pois fizemos a formatação de saida na linha de comando, contendo
+as informações de "Ações feitas", "Estados" e "Custo" que é o custo total de execução.
+
+
+Nosso problema de busca não informada a ser resolvido é o seguinte:
+
+12 - Recipientes com Água (12, 8, 5) - versão 2:
+Sejam 3 recipientes com capacidades iguais a 12, 8 e 5 litros. Sabendo-se que o
+de 12 litros está inicialmente cheio de água e os outros dois vazios, o problema
+consiste em obter 11 litros no recipiente de 12 e 1 litro no recipiente de 8 apenas
+movimentando a água entre os recipientes.
